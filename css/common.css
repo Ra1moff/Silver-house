@@ -1,0 +1,36 @@
+html, body {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+.nav {
+  padding-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #8C8A8A;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  vertical-align: bottom;
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+
